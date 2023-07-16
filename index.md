@@ -10,4 +10,4 @@ This website will contain various teaching exercises developed during EDS 124BR 
 
 ### [Week 3 - Show What You Know: Write and Explain A Program (Nested Loops for Octagon)](https://drive.google.com/file/d/1vRpZzz2R7rARjL-dgxoKTuL-DfTZxRjU/view?usp=drive_link)
 
-### [Week 3 - Show What You Know: Write and Explain A Program (Object Interaction: Monkey Example)](https://drive.google.com/file/d/1oLWnNahYqwP9k_lO_RKTm0EkLpfZJTiI/view?usp=drive_link)
+### [Week 3 - Show What You Know: Write and Explain A Program (Events)](https://drive.google.com/file/d/1oLWnNahYqwP9k_lO_RKTm0EkLpfZJTiI/view?usp=drive_link)
