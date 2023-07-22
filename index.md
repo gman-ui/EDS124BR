@@ -15,3 +15,5 @@ This website will contain various teaching exercises developed during EDS 124BR 
 ### [Week 4 - Show What You Know: Write and Explain A Program (Shapes with Variables)](https://drive.google.com/file/d/1jlA1UuwiaYri-xSVDOycxvPfCCcN27DD/view?usp=drive_link)
 
 ### [Week 5 - Show What You Know: Write and Explain A Program (Conditionals)](https://drive.google.com/file/d/1585Bpi13hg9mKqab2w80z8Nlc5eaVy8l/view?usp=drive_link)
+
+### [Week 6 - Show What You Know: Write and Explain A Program (If/Else)](https://drive.google.com/drive/folders/1G8ppe6_FFFxw7Do8-1YPRKuj3VoGRt6K?usp=drive_link)
